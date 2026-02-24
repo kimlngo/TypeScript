@@ -5,12 +5,12 @@ movieName = "The Accountant";
 //console.log(movieName.upper()); error as upper() does not exist
 console.log(movieName.toUpperCase());
 
-//Number
+//number
 let age: number = 30;
 age++;
 //age = "thirty-one"; not allowed
 
-//Boolean
+//boolean
 let isBoy: boolean = true;
 isBoy = false;
 // isBoy = "true"; not allowed
